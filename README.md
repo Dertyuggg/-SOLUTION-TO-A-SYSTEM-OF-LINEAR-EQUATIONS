@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the solution for the given linear equations.
-#Developed by: Anuranjan B 
-#RegisterNumber:212225040025
+#Developed by: Dhyaneshwar S
+#RegisterNumber:212225040078
 
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
